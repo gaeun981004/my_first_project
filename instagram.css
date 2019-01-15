@@ -1,0 +1,24 @@
+.banner {
+    position: fixed;
+}
+
+img {
+    display: inline;
+    border-radius: 50%;
+}
+
+.김가은 {
+    font-weight: bold;
+}
+
+.edit {
+    border-color: black;
+}
+
+footer {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color: blue;
+    display: inline;
+}
